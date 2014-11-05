@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<games>
+   <game>
+		<player>Alex</player>
+		<score>700</score>
+		<date>2014-9-12</date>
+		<resource>100</resource>
+	</game> 
+	 <game>
+		<player>Joel</player>
+		<score>720</score>
+		<date>2014-9-13</date>
+		<resource>100</resource>
+	</game> 
+	 <game>
+		<player>Kelly</player>
+		<score>720</score>
+		<date>2014-9-14</date>
+		<resource>100</resource>
+	</game>
+	 <game>
+		<player>Hua</player>
+		<score>810</score>
+		<date>2014-9-14</date>
+		<resource>100</resource>
+	</game>
+	 <game>
+		<player>Michael</player>
+		<score>860</score>
+		<date>2014-9-15</date>
+		<resource>100</resource>
+	</game>
+</games>

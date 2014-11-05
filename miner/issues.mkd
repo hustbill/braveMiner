@@ -1,0 +1,22 @@
+## Resolved Issues ##
+- **[1]**  Build a maze GameBoard with entities: brick, jewel, pipe, grass, monster and miner. 
+- **[2]**  Add control for miner, so the player lead miner to pick up the jewel or kill monsters.
+- **[3]**  Add control for monsters, so them can move in specific path with AI, path-finding 
+- **[4]**  Add A* pathFinding algorithm implementation, redefine the tile class
+- **[5]**  Advanced maze design, with higher complexity in level 2 and 3.
+- **[6]**  Collision response for entities: miner, monsters, bricks, jewel, bullet and bomb
+- **[7]**  Dynamic change layout(rows*cols) to 24*32 or 12*16, add method-shootBullet 
+- **[8]**  Update the A* star algorithm, move Red ghost step by step
+- **[9]**  A progression of three levels in which the game gets slightly more difficult. 
+- **[10]** Add pinkGhost and cyclops. To kill cyclops, miner shoot two bullets
+- **[11]** PowerUp: if the miner eat the power pill, it become stronger to kill monster by hand
+- **[12]** Add the animations when the ghost dies or the miner dies, such as shoot bullet
+- **[13]** Level2- use SpriteSheet to make miner image-"changeable", and let miner go through the maze
+- **[14]** Add collision detection for level2 when the player  cross the maze. 
+- **[15]** Try to implement isometric projection movement.
+
+## Open Issues ##
+
+- **[15]** Save the game and restore, Persistent high score tracking in XML file
+- **[16]** Press P to collect all coins and jewels quickly, cheat codes to access all of levels and features 
+
