@@ -48,3 +48,6 @@ ToDos and known issues
 2. select or input the player name
 3. Isometric projection- the maze design for level3 -  to be implement
 
+4. need copy resx folder to bin, then this game can load sound and image files sucessfully. (updated by hua 2018-10-26) 
+
+
