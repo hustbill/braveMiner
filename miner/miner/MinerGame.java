@@ -189,6 +189,8 @@ public class MinerGame extends StateBasedGame {
 		// and (2) because loading it will load the audio libraries and
 		// unless that is done now, we can't *disable* sound as we
 		// attempt to do in the startUp() method.
+		// public static final int FILTER_NEAREST   = Image.FILTER_NEAREST;
+		ResourceManager.setFilterMethod(1); // 2018-10-26 updated by Hua for base on JIG changes.
 		ResourceManager.loadSound(BANG_EXPLOSIONSND_RSC);
 		ResourceManager.loadSound(START_GAME_RSC);
 		ResourceManager.loadSound(GET_POWERUP_RSC);
